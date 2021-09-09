@@ -1,0 +1,118 @@
+{
+  "beaches": [
+    {
+      "name": "Waimea Bay",
+      "description": "The towering North Shore waves start here in Waimea Bay. The winter swells that roll into the famous Oahu North Shore beaches, generally top out at Waimea Beach Park , on the right hand side of the bay. Surfing the Bay, along with Sunset Beach and the Banzai Pipeline, is considered almost a pilgrimage among many pro-surfers that fly in from all around the world to partake in the daring action. The fun generally begins when the National Weather Service issues high surf warnings for the North Shore. Waimea Beach Park is located just past Haleiwa Beach, and across from Waimea Falls Park",
+      "source": "best-of-oahu.com",
+      "citationLink": "https://www.best-of-oahu.com/waimea-bay.html",
+      "photo": "images/waimea-bay.jpg"
+    },
+    {
+      "name": "Lanikai Beach",
+      "description": "This little treasure has plenty of soft sand and seclusion for a morning of peaceful, relaxing or swimming. Lanikai Beach used to be about a mile long, but the development of seawalls has caused erosion, making it about a half-mile. But certainly a gorgeous half mile! Lanikai has been ranked many times among the best beaches in the world. Two lovely offshore islands, soft white sand, and azure blue waters make it the idyllic tropical postcard spot.",
+      "source": "hawaii-guide.com",
+      "citationLink": "https://www.hawaii-guide.com/oahu/beaches",
+      "photo": "images/linikai-beach.jpg"
+    },
+    {
+      "name": "Sunset Beach",
+      "description": "Situated on the historic North Shore of Oahu, Sunset Beach is a beautifully long expanse of beach that has enamored both locals and tourists for decades. During the summer, the blindingly blue ocean waters are calm and crystal-clear, making it the perfect destination for swimmers, snorkelers and families. But as the winter months roll in, so do the large waves, making conditions suitable only for the most experienced of surfers. Surf fans are still welcome to watch pros ride these giants from the safety of the shoreline and take photos of this awe-inspiring natural phenomenon.",
+      "source": "hawaii.com",
+      "citationLink": "https://www.hawaii.com/oahu/beaches/top-5-beaches/",
+      "photo": "images/sunset-beach.jpg"
+    }  
+    ],
+  "restaurants": [
+    { 
+      "name": "Ricados Italian Restaurant",
+      "description": "This is my bf's mom's favorite Italian restaurant. She loves it so much that she randomly buys us takeout salad from there because apparently we don't eat enough vegetables. This review is solely based on the to go Italian Salad! And it was delicious. First, it is a good size. For only $6 you get a bunch of Romaine Lettuce, Peppers, Salami, Prosciutto, Olives, Cheese, Tomatoes and a good portion of dressing. Tbh, that gets them the 5th star because they aren't skimpy with dressing. I like my salad to not taste like salad.",
+      "source": "reen m., Honolulu on Yelp",
+      "citationLink": "https://www.yelp.com/biz/ricados-italian-restaurant-aiea?osq=ricados",
+      "photo": "images/ricados.jpg" 
+    },
+    {
+      "name": "Helena's Hawaiian Food",
+      "description": "At this no-frills, fluorescent-lit restaurant, you’ll find Hawaii’s classic soul food, which Helena’s has been serving since 1946. It’s based off native Hawaiian staple dishes and those influenced by the island’s waves of immigration up until the ‘50s; highlights at Helena's Hawaiian Food are kalua pig (smoky pulled pork, Hawaiian-style), poi (taro milled and thinned into a puddinglike consistency) and Helena’s legendary pipikaula—meaty short ribs dried and then pan-fried.",
+      "source": "timeout.com & helenashawaiianfood.com",
+      "citationLink": "https://www.helenashawaiianfood.com/index.html",        
+      "photo": "images/helenas.jpg"
+    },
+    {
+      "name": "The Pig and the Lady",
+      "description": "Visiting celebrities, from President Obama to Ben Affleck, all stop by for at least one meal in the Pig and the Lady’s boisterous dining room, where the menu melds Vietnamese and Southeast Asian flavors with modern sensibilities. Come for lunch, and you must order the pho French dip—meltingly soft slices of brisket paired with a Thai basil chimichurri and bean sprouts, served with a side of pho broth for dipping. The dinner menu constantly changes, but make sure to finish off with a swirled soft serve, which often comes in funky flavors like black sesame custard and mango sorbet.",
+      "source": "timeout.com & thepigandthelady.com",
+      "citationLink": "https://thepigandthelady.com/",        
+      "photo": "images/pig-and-the-lady.jpg"
+    }     
+  ],
+  "shopping": [
+    {
+      "name": "Aloha Stadium Swap Meet",
+      "description": "The Aloha Stadium Swap Meet is best described as a Hawaiiana shopping spectacle, that’s both entertaining and overwhelming at the same time.  This Oahu shopping event is sometimes referred to as the Aloha Flea Market, and is a world all on its own. On Wednesdays, Saturday and Sundays, hundred of vendors start first thing in the morning setting up their tents in the dark around the stadium, circling around it almost a mile long multiple times to fit everyone in…thus creating an Aloha Stadium Swap Meet bazaar, and the best Shopping finds on Oahu.",
+      "source": "best-of-oahu.com",
+      "citationLink": "https://www.best-of-oahu.com/aloha-stadium-swap-meet.html",
+      "photo": "images/aloha-swap-meet.jpg"
+    },
+    {
+      "name": "Ala Moana",
+      "description": "Ala Moana Center offers an open-air shopping experience in Honolulu, with hundreds of shops and dining opportunities accompanied by a variety of entertainment choices. Premier retail outlets and a great selection of restaurants are only some of the reasons to visit this shopping center. The fresh air, highlights of Hawaiian art, and scattered palm trees make it a relaxing environment to walk about on a leisurely day. You can come and find the right swimwear and surf gear while enjoying the refreshing Hawaiian breeze at Ala Moana Center. Best of all, the shopping center is just opposite Ala Moana Beach and Regional Park.",
+      "source": "hotels.com",
+      "citationLink": "https://www.hotels.com/go/usa/us-best-shopping-oahu",
+      "photo": "images/ala-moana.jpg"
+    },
+    {
+      "name": "Pearlridge",
+      "description": "Marked by the stately Aloha Tower, this harbor side shopping complex provides a glimpse of old Hawaii, complete with docked ships and crowds of tourists. The array of shops offers great souvenir options and all sorts of gift ideas. Representative items include candles, jewelry, clothing, Pacific crafts, fragrances, sunglasses, cigars, and island art. Onsite restaurants include Chai's Island Bistro, Gordon Biersch Brewery, and Don Ho's Island Grill. Make sure to visit the tower's observation deck while you're there. Although it's centrally located in Honolulu, the location offers a bit of an escape from the busy streets of Waikiki and the hustle and bustle of larger shopping centers.",
+      "source": "10best.com",
+      "citationLink": "https://www.10best.com/destinations/hawaii/honolulu/shopping/best-shopping/",        
+      "photo": "images/pearlridge.jpg"
+    }
+  ],
+  "sightseeing": [
+    {
+      "name": "Nu‘uanu Pali Lookout",
+      "description": "Located just a short 5-mile drive from downtown Honolulu, this lookout offers the some of the best views on Oahu. From here you can spot Kailua town as well as Kaneohe Bay and, of course, the breathtaking Ko'olau Mountains.",
+      "source": "hawaii-guide.com",
+      "citationLink": "https://www.hawaii-guide.com/oahu/sights/nuuanu_pali_lookout",        
+      "photo": "images/pali.jpg"
+    },
+    {
+      "name": "Waimea Valley",
+      "description": "The place is most known for its’ 45-foot (13.7m) waterfall, which is on Kamananui Stream that flows from the north end of the Ko’olau Mountains on the Windward side of Oahu all the way through Waimea Valley and joins the Waimea River to the ocean.",
+      "source": "hawaii-guide.com",
+      "citationLink": "https://www.hawaii-guide.com/oahu/sights/waimea-valley-on-oahus-north-shore",        
+      "photo": "images/WaimeaValley.jpg"
+    },
+    {
+      "name": "Pearl Harbor / USS Arizona",
+      "description": "Known the world over as a “date which will live in infamy,” the devastating events of December 7, 1941, changed the course of history. It was here that a surprise air attack by the Japanese plunged the United States into World War II, claiming thousands of lives. At Pearl Harbor, that tragic history is never too far in the past. Hear first-hand stories from survivors describing the chaotic scene on Battleship Row. Walk through an airplane hangar that still bears the scars from that fateful morning. And peer into the shallow harbor where the sunken hulk of the USS Arizona rests, still leaking oil that pools on the water’s surface like black tears, as they’ve been described.",
+      "source": "gohawaii.com",
+      "citationLink": "https://www.gohawaii.com/islands/oahu/regions/central-oahu/pearl-harbor",        
+      "photo": "images/PearlHarbor.jpg"
+    }
+  ],
+  "traditions": [
+    {
+      "name": "Luau",
+      "description": "Luau is one of Hawaii's best known celebration. It's a traditional Hawaii banquet paired with the typical garlands of flower -lei- moving at the rythm of Hula. It's really recurrent and doesn't just belong to one day. It may be for a baptism, a birthday or a wedding. But it's not a Luau if there aren't leism tropical fruit, ukelele music and Hula dancing!",
+      "citationLink": "https://www.bautrip.com/travel-guide/hawaii/festivities",
+      "source": "bautrip.com",
+      "photo": "images/luau.jpg"
+    },
+    {
+      "name": "Kamehameha Day",
+      "description": "Every June 11th, the first monarch of the Kingdom of Hawaii, King Kamehameha the Great, is celebrated. Each year, a Ho‘olaule‘a (festival), a carnival, a lei draping ceremony, and a floral parade are held in his honor, and the entire state has the day off.",
+      "citationLink": "https://theculturetrip.com/north-america/usa/hawaii/articles/10-hawaiian-traditions-worth-knowing/",
+      "source": "theculturetrip.com",
+      "photo": "images/king.jpg"
+    },
+    {
+      "name": "Lei Day",
+      "description": "\"May Day is Lei Day in Hawaii Nei.\" This popular phrase in the islands prevents anyone from forgetting this special day. It was Don Blanding, a writer and poet, who first suggested that a holiday should be dedicated to the beautiful Hawaiian tradition of making and wearing lei. But it was Grace Tower Warren, also a writer, who came up with the idea that the holiday should coincide with May Day. And so since the first Lei Day on May 1, 1928, Hawaii has continued the annual celebration to this very day.",
+      "citationLink": "https://www.hawaii.com/discover/may-day-in-hawaii/",
+      "source": "hawaii.com",
+      "photo": "images/leiday.jpg"
+    }
+  ]
+}
+  
